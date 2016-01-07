@@ -1,0 +1,34 @@
+<html>
+	<head> 
+		<link rel="stylesheet" type="text/css" href="WebsiteCSS.css">	
+ 	</head>
+	<body> 
+		<div class="titleBox">
+				<h1>Title</h1>
+		</div>
+		
+		<div class="navLinks">
+			<p><a href="Home.html"> Home </a></p>
+			<p><a href="About.html"> About </a></p>
+			<p><a href="Website3.html"> Forum  </a></p>
+			<p><a href="Website4.html">  Web4</a></p>
+			<p><a href="Website5.html"> Web5 </a></p>
+			<p><a href="Website6.html">  Web6</a></p>
+			<p><a href="Contact.html"> Contact </a></p>
+		</div>
+
+		
+		<h2 class ="SubT">Sub-Title</h2>
+		<!--What is it that I  need in this section?  This is the  home  page.  Shoudl I have a  home page  video?  Answer: Yes,  yes I should. 
+		Now I would like to have a  camera to  accomplish this  feat This means that I have to go online amazon. So I  have the camera  in my bin
+		However I  need to  have more than A video. Most of it  will  be  about displaying the  GUI in a  user friendly  way with beautiful color
+		or at least  stylized. I think that the  home page should have information about us, therefore there is no  need for an about  page. 
+		Well I  Suppose this is enough for  one day... -->
+		<div class="content">
+			<p>Content</p>
+		</div>
+	</body>
+	<footer>
+	<p>footer</p>
+	</footer>
+</html>
